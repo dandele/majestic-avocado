@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Ciao, sono Daniele'
-    subtitle: UX
+    subtitle: 'Sono uno UX Designer in costante crescita, appassionato di No Code'
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
