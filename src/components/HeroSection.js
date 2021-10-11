@@ -78,7 +78,7 @@ export default class HeroSection extends React.Component {
                                     'cell-md-6': isHorizontal && mediaWidth === 'fifty',
                                     'cell-md-5': isHorizontal && mediaWidth === 'sixty',
                                     'order-md-first': hasMedia && mediaPosition === 'right',
-                                    'order-first': hasMedia && mediaPosition === 'bottom',
+                                    'order-first': hasMedia && mediaPosition === 'top',
                                     'text-center': alignX === 'center',
                                     'text-right': alignX === 'right'
                                 })}
