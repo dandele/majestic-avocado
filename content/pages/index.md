@@ -28,10 +28,6 @@ sections:
         subtitle: >-
           Come si può velocizzare il processo di appuntamento e vendita quando è
           sempre stato tutto offline?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
         actions:
           - label: Learn More
             url: /style-guide
