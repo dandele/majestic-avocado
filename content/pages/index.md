@@ -75,7 +75,7 @@ sections:
         image: /images/tools_box_toolbox.svg
         image_alt: Feature 2 placeholder image
         media_position: left
-        media_width: thirty-three
+        media_width: sixty
         align: left
       - title: Il mio CV
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
