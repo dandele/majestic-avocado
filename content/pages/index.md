@@ -257,16 +257,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - type: cta_section
-    actions:
-      - label: Button
-        url: /pricing
-        style: primary
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
