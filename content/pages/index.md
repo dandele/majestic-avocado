@@ -126,7 +126,6 @@ sections:
     background_color: primary
   - type: grid_section
     title: 3 miei difetti
-    subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
         title_align: left
