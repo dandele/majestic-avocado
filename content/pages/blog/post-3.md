@@ -10,10 +10,7 @@ categories:
 tags:
   - content/data/tags/stackbit.yaml
   - content/data/tags/jamstack.yaml
-excerpt: >-
-  Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
-  dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis,
-  inquit, me dixisse.
+excerpt: Come si può aumentare il numero di conversioni per un e-commerce?
 thumb_image: /images/macbook-pro-2015-psd-mockup_definitive-edition_riproviamo_dinuovo.png
 thumb_image_alt: Post 3 placeholder image
 image: images/classic/post-3.png
