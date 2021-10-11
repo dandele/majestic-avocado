@@ -10,7 +10,7 @@ sections:
       - label: Scarica il CV
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Scrivimi
         url: /features
         style: secondary
     image: /images/ionobg-4649d013bc2081e944a86e89a5fd5f7b-1fce5350.png
