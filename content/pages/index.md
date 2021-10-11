@@ -93,7 +93,7 @@ sections:
         media_position: left
         media_width: fifty
         align: left
-        image: /images/about-2.jpg
+        image: /images/about-1.jpg
     feature_padding_vert: large
     align: center
     background_color: secondary
