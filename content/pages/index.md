@@ -95,17 +95,14 @@ sections:
         media_position: right
         media_width: thirty-three
       - title: About me
-        content: >-
-          ## Lorem ipsum
-
-
+        content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         media_position: left
