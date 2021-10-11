@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - type: features_section
-    title: Alcuni dei miei progetti
+    title: Alcuni cose su di me
     features:
       - title: Il mio metodo
         subtitle: >-
