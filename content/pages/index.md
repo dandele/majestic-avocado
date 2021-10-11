@@ -24,7 +24,7 @@ sections:
   - type: features_section
     title: Alcuni dei miei progetti
     features:
-      - title: Calogico Pellet
+      - title: Il mio metodo
         subtitle: >-
           Come si può velocizzare il processo di appuntamento e vendita quando è
           sempre stato tutto offline?
