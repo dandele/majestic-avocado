@@ -23,7 +23,6 @@ sections:
     background_color: secondary
   - type: features_section
     title: Alcuni dei miei progetti
-    subtitle: Features Section Example
     features:
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
