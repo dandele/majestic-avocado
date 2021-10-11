@@ -27,7 +27,7 @@ sections:
       - title: Il mio metodo
         subtitle: >-
           Come si può velocizzare il processo di appuntamento e vendita quando è
-          sempre stato tutto offline?
+          sempre stato offline?
         actions:
           - label: Learn More
             url: /style-guide
