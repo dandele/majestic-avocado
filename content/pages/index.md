@@ -72,7 +72,7 @@ sections:
         image: /images/paper_sheet-1.svg
         image_alt: Feature 3 placeholder image
         media_position: right
-        media_width: fourty
+        media_width: thirty-three
       - title: Alcune cose su di me
         subtitle: tw
         content: >-
