@@ -93,7 +93,7 @@ sections:
         media_position: left
         media_width: fifty
         align: left
-        image: /images/about-1.jpg
+        image: /images/iphone-xs_definitiva-bd82b2c5.webp
     feature_padding_vert: large
     align: center
     background_color: secondary
