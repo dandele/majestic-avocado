@@ -25,7 +25,9 @@ sections:
     title: Alcuni dei miei progetti
     features:
       - title: Calogico Pellet
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare.'
+        subtitle: >-
+          Come si può velocizzare il processo di appuntamento e vendita quando è
+          sempre stato tutto offline?
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
