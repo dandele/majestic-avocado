@@ -267,7 +267,7 @@ sections:
     show_date: false
     show_categories: false
     show_author: false
-    show_excerpt: false
+    show_excerpt: true
     align: center
     padding_top: medium
     padding_bottom: medium
