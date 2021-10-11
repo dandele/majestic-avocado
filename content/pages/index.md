@@ -15,7 +15,7 @@ sections:
         style: secondary
     image: /images/725AB173-8D0D-40D7-A40E-7CE9D5AF9B39.svg
     image_alt: Hero section placeholder image
-    media_position: bottom
+    media_position: top
     media_width: fourty
     align: left
     padding_top: large
