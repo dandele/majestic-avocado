@@ -78,7 +78,6 @@ sections:
         media_width: thirty-three
         align: left
       - title: Il mio CV
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
