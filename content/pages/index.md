@@ -38,7 +38,7 @@ sections:
         image: /images/agile_tasks_kanban.svg
         image_alt: Feature 1 placeholder image
         media_position: right
-        media_width: fifty
+        media_width: fourty
       - title: I tool che più utilizzo
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
