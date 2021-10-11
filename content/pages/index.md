@@ -255,7 +255,6 @@ sections:
     background_color: secondary
   - type: blog_feed_section
     title: Alcuni dei miei progetti
-    subtitle: Blog Feed Section Example
     actions:
       - label: View All
         url: /blog
