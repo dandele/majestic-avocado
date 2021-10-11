@@ -24,7 +24,7 @@ sections:
   - type: features_section
     title: Alcuni dei miei progetti
     features:
-      - title: The Big Title For the Feature
+      - title: Calogico Pellet
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
