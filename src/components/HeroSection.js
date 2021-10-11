@@ -55,7 +55,7 @@ export default class HeroSection extends React.Component {
                         {hasMedia && (
                             <div
                                 className={classNames('hero__media', 'my-2', 'cell-12', {
-                                    'cell-md-5': isHorizontal && mediaWidth === 'fourty',
+                                    'cell-md-5': isHorizontal && mediaWidth === 'thirty',
                                     'cell-md-6': isHorizontal && mediaWidth === 'fifty',
                                     'cell-md-7': isHorizontal && mediaWidth === 'sixty'
                                 })}
