@@ -77,6 +77,9 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
+    subtitle: >-
+      Ecco alcuni dei miei lavori più significativi, se vuoi capire perché li
+      reputo tali cliccaci e scoprilo!
   - type: features_section
     features:
       - title: >-
