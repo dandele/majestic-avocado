@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Ciao, sono Daniele'
-    subtitle: Optional hero section subtitle
+    subtitle: UX Designer e Content Manager
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
