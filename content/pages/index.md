@@ -72,7 +72,7 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
-      - title: lorem-ipsum
+      - title: Alcune cose su di me
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
