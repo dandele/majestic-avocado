@@ -92,7 +92,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         media_position: left
         media_width: fifty
-        align: left
+        align: right
     feature_padding_vert: large
     align: center
     background_color: secondary
