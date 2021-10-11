@@ -13,7 +13,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: /images/ionobg-4649d013bc2081e944a86e89a5fd5f7b.png
     image_alt: Hero section placeholder image
     media_position: right
     media_width: fifty
