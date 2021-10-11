@@ -6,9 +6,6 @@ sections:
     subtitle: >-
       Sono uno UX Designer in costante crescita, appassionato di No Code e
       Knowledge Management
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
     actions:
       - label: Try Free
         url: /pricing
