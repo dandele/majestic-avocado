@@ -73,7 +73,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: Alcune cose su di me
-        subtitle: lorem-ipsum
+        subtitle: tw
         content: >-
           ## Lorem ipsum
 
