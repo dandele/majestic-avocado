@@ -110,7 +110,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: left
-        media_width: fifty
+        media_width: thirty-three
         align: left
         image: /images/tools_box_toolbox-6228f41f.svg
     feature_padding_vert: large
