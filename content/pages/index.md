@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     background_color: secondary
     background_image_repeat: no-repeat
-    section_id: hero
+    section_id: hero_section
   - type: blog_feed_section
     title: Alcuni dei miei progetti
     actions:
