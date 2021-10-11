@@ -95,7 +95,6 @@ sections:
         media_position: right
         media_width: thirty-three
       - title: About me
-        subtitle: tw
         content: >-
           ## Lorem ipsum
 
