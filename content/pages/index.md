@@ -1,6 +1,26 @@
 ---
 title: Home
 sections:
+  - type: hero_section
+    title: 'Ciao, sono Daniele'
+    subtitle: >-
+      Sono uno UX Designer in costante crescita, appassionato di No Code e
+      Knowledge Management
+    actions:
+      - label: Scarica il CV
+        url: /pricing
+        style: primary
+      - label: Scrivimi
+        url: /features
+        style: secondary
+    image: /images/ionobg-4649d013bc2081e944a86e89a5fd5f7b-1fce5350.png
+    image_alt: Hero section placeholder image
+    media_position: right
+    media_width: fifty
+    align: left
+    padding_top: large
+    padding_bottom: large
+    background_color: secondary
   - type: blog_feed_section
     title: Alcuni dei miei progetti
     actions:
@@ -22,26 +42,6 @@ sections:
     has_border: false
     background_color: none
     section_id: Progetti
-  - type: hero_section
-    title: 'Ciao, sono Daniele'
-    subtitle: >-
-      Sono uno UX Designer in costante crescita, appassionato di No Code e
-      Knowledge Management
-    actions:
-      - label: Scarica il CV
-        url: /pricing
-        style: primary
-      - label: Scrivimi
-        url: /features
-        style: secondary
-    image: /images/ionobg-4649d013bc2081e944a86e89a5fd5f7b-1fce5350.png
-    image_alt: Hero section placeholder image
-    media_position: right
-    media_width: fifty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
   - type: features_section
     title: Alcuni cose su di me
     features:
