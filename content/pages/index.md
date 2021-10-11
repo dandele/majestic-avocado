@@ -1,6 +1,27 @@
 ---
 title: Home
 sections:
+  - type: blog_feed_section
+    title: Alcuni dei miei progetti
+    actions:
+      - label: View All
+        url: /blog
+        style: primary
+    blog_feed_cols: two
+    enable_cards: true
+    show_recent: true
+    recent_count: 4
+    show_image: true
+    show_date: false
+    show_categories: false
+    show_author: false
+    show_excerpt: true
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    section_id: Progetti
   - type: hero_section
     title: 'Ciao, sono Daniele'
     subtitle: >-
@@ -277,27 +298,6 @@ sections:
     grid_cols: four
     align: center
     background_color: secondary
-  - type: blog_feed_section
-    title: Alcuni dei miei progetti
-    actions:
-      - label: View All
-        url: /blog
-        style: primary
-    blog_feed_cols: two
-    enable_cards: true
-    show_recent: true
-    recent_count: 4
-    show_image: true
-    show_date: false
-    show_categories: false
-    show_author: false
-    show_excerpt: true
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    section_id: Progetti
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     content: >-
