@@ -115,7 +115,7 @@ sections:
         media_position: left
         media_width: fifty
         align: left
-        image: /images/iphone-xs_definitiva-bd82b2c5.webp
+        image: /images/tools_box_toolbox-6228f41f.svg
     feature_padding_vert: large
     align: center
     background_color: secondary
