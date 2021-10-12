@@ -103,7 +103,9 @@
 	.item__title {
 		margin-bottom: 0.83333em;
 	}
-
+@include media-breakpoint-down(sm) {
+        .item-subtitle { padding-top: 40px};
+    }
 
 }
 
