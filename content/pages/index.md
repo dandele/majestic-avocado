@@ -23,6 +23,7 @@ sections:
     background_color: secondary
     background_image_repeat: no-repeat
     section_id: hero_section
+    video_embed_html: 'https://www.canva.com/design/DAEsn_nong4/watch'
   - type: blog_feed_section
     title: Alcuni dei miei progetti
     actions:
