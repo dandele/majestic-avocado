@@ -61,7 +61,7 @@ export default class HeroSection extends React.Component {
                                 })}
                             >
                                 {videoEmbed ? htmlToReact(videoEmbed)
-                                    : <img id
+                                    : <img id="hero_image"
                                             src={withPrefix(image)}
                                             alt={imageAlt}
                                             className={classNames({
