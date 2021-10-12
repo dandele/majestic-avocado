@@ -49,7 +49,7 @@ export default class FeaturesSection extends React.Component {
                                     src={withPrefix(image)}
                                     alt={imageAlt}
                                     className={classNames({
-                                        'mx-auto': alignX === 'left',
+                                        'mx-auto': alignX === 'center',
                                         'ml-auto': alignX === 'right'
                                     })}
                                 />}
