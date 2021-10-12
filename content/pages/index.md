@@ -13,7 +13,7 @@ sections:
       - label: Scrivimi
         url: /features
         style: secondary
-    image: /images/725AB173-8D0D-40D7-A40E-7CE9D5AF9B39.svg
+    image: /images/gif.gif
     image_alt: Hero section placeholder image
     media_position: right
     media_width: fourty
