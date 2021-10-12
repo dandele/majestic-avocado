@@ -73,6 +73,10 @@
 	font-size: 0.88889em;
 }
 
+    @include media-breakpoint-down(sm) {
+        
+    }
+
 .item__actions {
 	margin-top: 1.66667em;
 }
