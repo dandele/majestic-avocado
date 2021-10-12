@@ -40,7 +40,7 @@ sections:
     show_excerpt: true
     align: center
     padding_top: large
-    padding_bottom: none
+    padding_bottom: large
     has_border: false
     background_color: none
     section_id: Progetti
