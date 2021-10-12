@@ -114,7 +114,7 @@ sections:
     align: center
     background_color: secondary
     background_image_size: cover
-    padding_top: large
+    padding_top: none
     padding_bottom: large
   - type: features_section
     features:
