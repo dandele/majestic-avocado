@@ -55,7 +55,18 @@
         "tertiary_nav_title": "lorem-ipsum",
         "tertiary_nav_links": [],
         "has_social": true,
-        "social_links": [],
+        "social_links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            }
+        ],
         "content": "Made with ❤️ by Daniele D'Amico using Stackbit and React",
         "links": []
     }
