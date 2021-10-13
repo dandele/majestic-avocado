@@ -19,7 +19,7 @@ sections:
     media_width: fourty
     align: left
     padding_top: medium
-    padding_bottom: large
+    padding_bottom: medium
     background_color: secondary
     background_image_repeat: no-repeat
     section_id: hero_section
