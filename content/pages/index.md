@@ -18,7 +18,7 @@ sections:
     media_position: right
     media_width: fourty
     align: left
-    padding_top: medium
+    padding_top: small
     padding_bottom: small
     background_color: secondary
     background_image_repeat: no-repeat
