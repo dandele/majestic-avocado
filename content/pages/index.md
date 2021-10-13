@@ -116,7 +116,7 @@ sections:
     background_color: secondary
     background_image_size: cover
     padding_top: medium
-    padding_bottom: none
+    padding_bottom: medium
   - type: features_section
     features:
       - title: >-
