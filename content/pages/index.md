@@ -95,7 +95,7 @@ sections:
         image: /images/Group 1.svg
         image_alt: Feature 3 placeholder image
         media_position: right
-        media_width: sixty
+        media_width: thirty-three
       - title: About me
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
