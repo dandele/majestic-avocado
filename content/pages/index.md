@@ -133,7 +133,7 @@ sections:
   - type: grid_section
     title: 3 NUMERI SU DI ME
     grid_items:
-      - title: Section Item 1
+      - title: NUMERO DI CAFFE AL GIORNO
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
