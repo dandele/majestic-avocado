@@ -10,7 +10,7 @@ sections:
       - label: SCARICA IL CV
         url: /pricing
         style: primary
-      - label: Scrivimi
+      - label: SCRIVIMI
         url: /features
         style: secondary
     image: /images/gif def.gif
