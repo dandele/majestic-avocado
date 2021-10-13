@@ -98,7 +98,6 @@ export default class GridItem extends React.Component {
                                             'ml-auto': imageAlignX === 'right'
                                         })}
                                     />
-                                    <div className="counter"></div>
                                 </div>
                             </div>
                         )}
