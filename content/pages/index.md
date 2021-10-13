@@ -138,6 +138,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
+        actions_width: full-width
       - title: NUMERO DI LIBRI LETTI
         title_align: left
         content: >-
