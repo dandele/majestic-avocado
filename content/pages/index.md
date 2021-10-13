@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: 'Ciao, sono Daniele'
     subtitle: >-
-      Sono uno UX Designer in costante crescita, appassionato di No Code e
-      Knowledge Management
+      uno UX Designer in costante crescita, appassionato di No Code e Knowledge
+      Management
     actions:
       - label: SCARICA IL CV
         url: /pricing
