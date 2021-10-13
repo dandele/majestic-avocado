@@ -186,6 +186,7 @@ sections:
     align: center
     background_color: none
     has_border: true
+    section_id: numeri
   - type: grid_section
     title: COSA DICONO DI ME
     grid_items:
