@@ -115,30 +115,6 @@
 	.item__title {
 		margin-bottom: 0.83333em;
     }
-    
-
- 
-@property --num {
-  syntax: "<integer>";
-  initial-value: 0;
-  inherits: false;
-}
-
-.counter {
-  transition: --num 5s;
-  counter-set: num var(--num);
-  font: 800 40px system-ui;
-}
-div::after {
-  content: counter(num);
-}
-div:hover {
-  --num: 100;
-}
-
-body {
-  margin: 2rem;
-}
 
 @include media-breakpoint-down(sm) {
         .item__title { margin-top: 0.83333em};
