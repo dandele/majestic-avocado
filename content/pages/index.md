@@ -103,6 +103,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     section_id: info
+    has_border: true
   - type: features_section
     features:
       - title: >-
