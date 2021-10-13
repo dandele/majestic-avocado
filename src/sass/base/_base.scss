@@ -234,4 +234,8 @@ figcaption {
         padding-bottom: $grid-gap-small / 2;
     }
 
+    img {
+	height: auto;
+	max-width: 100%;
+}
 }
