@@ -7,7 +7,7 @@ sections:
       Sono uno UX Designer in costante crescita, appassionato di No Code e
       Knowledge Management
     actions:
-      - label: Scarica il CV
+      - label: SCARICA IL CV
         url: /pricing
         style: primary
       - label: Scrivimi
