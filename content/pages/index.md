@@ -114,7 +114,7 @@ sections:
         media_position: right
         media_width: thirty-three
     feature_padding_vert: small
-    background_color: primary
+    background_color: secondary
   - type: grid_section
     title: 3 NUMERI SU DI ME
     grid_items:
