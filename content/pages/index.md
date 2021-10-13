@@ -124,7 +124,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
-        content_align: center
+        content_align: left
         actions:
           - label: Learn More
             url: /style-guide
