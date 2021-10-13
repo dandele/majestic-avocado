@@ -124,7 +124,7 @@
   inherits: false;
 }
 
-div {
+.counter {
   transition: --num 5s;
   counter-set: num var(--num);
   font: 800 40px system-ui;
