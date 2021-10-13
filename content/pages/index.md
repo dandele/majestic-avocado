@@ -115,6 +115,7 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: secondary
+    has_border: true
   - type: grid_section
     title: 3 NUMERI SU DI ME
     grid_items:
