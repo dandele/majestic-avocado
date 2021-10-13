@@ -244,7 +244,7 @@ sections:
     actions:
       - label: Learn More
         url: /features
-        style: secondary
+        style: primary
     actions_position: right
     actions_width: fourty
     align: left
