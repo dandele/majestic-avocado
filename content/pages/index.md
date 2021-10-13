@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Daniele D'Amico UX Designer
 sections:
   - type: hero_section
     title: 'Ciao, sono Daniele'
