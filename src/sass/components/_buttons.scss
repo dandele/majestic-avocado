@@ -141,7 +141,7 @@
 		&:hover,
 		&:focus,
 		&:active {
-            //box-shadow: 0 0 0 0 $color-bold-btn-shadow;
+            box-shadow: 0 0 0 0 $color-bold-btn-shadow;
             box-shadow: 2px 1.5px 3px -3px $color-bold-btn-shadow,
                         5.1px 3.9px 6.3px -3px $color-bold-btn-shadow,
                         9.7px 7.3px 10.2px -3px $color-bold-btn-shadow,
