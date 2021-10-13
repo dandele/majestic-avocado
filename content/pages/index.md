@@ -92,7 +92,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/Group 1.svg
+        image: /images/Group 1-c46bc27c.svg
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: thirty-three
