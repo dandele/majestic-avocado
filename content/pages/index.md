@@ -26,10 +26,7 @@ sections:
     has_border: true
   - type: blog_feed_section
     title: ALCUNI MIEI PROGETTI
-    actions:
-      - label: View All
-        url: /blog
-        style: primary
+    actions: []
     blog_feed_cols: two
     enable_cards: true
     show_recent: true
