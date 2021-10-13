@@ -17,7 +17,7 @@
 
 @include media-breakpoint-down(sm) {
     .flex-column {
-        flex-direction: column-reverse;
+        flex-direction: column;
     }
     .grid {
         display: flex;
