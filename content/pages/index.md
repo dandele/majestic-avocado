@@ -132,7 +132,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: center
-        actions_align: center
+        actions_align: right
         image: /images/615-coffee-machine-outline.gif
         image_alt: Section item 1 icon
         image_position: top
