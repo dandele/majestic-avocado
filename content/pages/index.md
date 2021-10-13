@@ -139,7 +139,7 @@ sections:
         image_align: left
         image_has_padding: true
         actions_width: full-width
-      - title: NUMERO DI LIBRI LETTI
+      - title: LIBRI LETTI
         title_align: left
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
