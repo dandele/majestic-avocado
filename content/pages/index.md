@@ -188,7 +188,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Cosa dicono di me
+    title: COSA DICONO DI ME
     grid_items:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
