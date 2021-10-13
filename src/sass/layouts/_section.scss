@@ -114,7 +114,9 @@
 .blog-feed {
 	.item__title {
 		margin-bottom: 0.83333em;
-	}
+    }
+    
+
 @include media-breakpoint-down(sm) {
         .item__title { margin-top: 0.83333em};
     }
