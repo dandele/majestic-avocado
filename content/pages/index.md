@@ -131,7 +131,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: 3 miei difetti
+    title: 3 NUMERI SU DI ME
     grid_items:
       - title: Section Item 1
         title_align: left
