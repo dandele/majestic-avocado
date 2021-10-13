@@ -46,7 +46,7 @@ sections:
     background_color: none
     section_id: Progetti
   - type: features_section
-    title: Qualche informazione su di me
+    title: QUALCHE INFORMAZIONE SU DI ME
     features:
       - title: Il mio metodo
         subtitle: >-
