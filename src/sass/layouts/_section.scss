@@ -117,7 +117,7 @@
     }
     
 
-#numeri.counter {
+.counter {
     @property --num {
   syntax: "<integer>";
   initial-value: 0;
