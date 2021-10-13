@@ -250,7 +250,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    section_id: about_section
+    section_id: pre_footer
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
