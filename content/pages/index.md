@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Ciao, sono Daniele'
+    title: '<>Ciao, sono Daniele'
     subtitle: >-
       Sono uno UX Designer in costante crescita, appassionato di No Code e
       Knowledge Management
