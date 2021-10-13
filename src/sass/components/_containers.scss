@@ -9,7 +9,7 @@
 	padding-right: $grid-gap;
 
 	@include media-breakpoint-down(sm) {
-		padding-left: $grid-gap-small / 2;
+		padding-left: $grid-gap-small;
 		padding-right: $grid-gap-small / 2;
 	}
 }
