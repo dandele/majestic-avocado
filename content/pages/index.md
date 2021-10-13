@@ -39,7 +39,7 @@ sections:
     align: center
     padding_top: medium
     padding_bottom: medium
-    has_border: false
+    has_border: true
     background_color: none
     section_id: Progetti
   - type: features_section
