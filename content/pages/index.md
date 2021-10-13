@@ -96,21 +96,6 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: thirty-three
-      - title: About me
-        content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: left
-        media_width: thirty-three
-        align: left
-        image: /images/tools_box_toolbox-6228f41f.svg
     feature_padding_vert: large
     align: center
     background_color: secondary
