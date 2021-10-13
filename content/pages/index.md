@@ -25,7 +25,7 @@ sections:
     section_id: hero_section
     has_border: true
   - type: blog_feed_section
-    title: Alcuni dei miei progetti
+    title: ALCUNI MIEI PROGETTI
     actions:
       - label: View All
         url: /blog
