@@ -117,7 +117,7 @@ sections:
     background_image_size: cover
     padding_top: medium
     padding_bottom: medium
-    section_id: '#info'
+    section_id: info
   - type: features_section
     features:
       - title: >-
