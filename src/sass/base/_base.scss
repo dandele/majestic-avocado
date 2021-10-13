@@ -226,6 +226,7 @@ figcaption {
 
     #hero_section {
         display: flex;
+        flex-direction: column-reverse;
     }
 
 }
