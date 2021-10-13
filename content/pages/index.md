@@ -97,7 +97,7 @@ sections:
     align: center
     background_color: secondary
     background_image_size: cover
-    padding_top: medium
+    padding_top: none
     padding_bottom: medium
     section_id: info
     has_border: true
