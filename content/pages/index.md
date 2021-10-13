@@ -117,6 +117,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
     has_border: true
+    section_id: about_section
   - type: grid_section
     title: 3 NUMERI SU DI ME
     grid_items:
